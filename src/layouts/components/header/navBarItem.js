@@ -6,7 +6,7 @@ export const navBarItem = [
   },
   {
     title: '短链接',
-    link: 'https://s.ops.ci',
+    link: process.env.VUE_APP_SHORT_URL,
     target: '_blank',
   },
   {
