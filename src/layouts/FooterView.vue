@@ -1,7 +1,5 @@
 <template>
-  <footer id="footer" style="padding: 30px">
-    <footer-bar style="padding-bottom: 30px" />
-  </footer>
+
 </template>
 
 <script>
