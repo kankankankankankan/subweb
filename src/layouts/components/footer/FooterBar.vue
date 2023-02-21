@@ -1,12 +1,5 @@
 <template>
-  <ul class="copyright">
-    <li class="footer">
-      GitHub:
-      <a href="https://github.com/stilleshan/subweb" target="_blank"
-        >stilleshan/subweb</a
-      >
-    </li>
-  </ul>
+
 </template>
 
 <script>
